@@ -47,7 +47,7 @@ const Rmbtn = styled.button`
   background-color: white;
   color:#a5c1e8;
   font-weight: bold;
-  font-size: 16px;
+  font-size: 14px;
 `
 
 interface IForm {
