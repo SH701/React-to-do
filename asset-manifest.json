@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/SH701/React-to-do/static/js/main.5c95d71a.js",
-    "index.html": "/SH701/React-to-do/index.html",
-    "main.5c95d71a.js.map": "/SH701/React-to-do/static/js/main.5c95d71a.js.map"
+    "main.js": "/React-to-do/static/js/main.a38b520d.js",
+    "index.html": "/React-to-do/index.html",
+    "main.a38b520d.js.map": "/React-to-do/static/js/main.a38b520d.js.map"
   },
   "entrypoints": [
-    "static/js/main.5c95d71a.js"
+    "static/js/main.a38b520d.js"
   ]
 }
