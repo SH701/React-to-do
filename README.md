@@ -49,3 +49,11 @@
 - ├── package-lock.json           # 정확한 버전 고정용
 - ├── tsconfig.json               # TypeScript 설정
 - └── README.md                   # 프로젝트 설명 문서
+
+---
+
+## 📷 미리보기
+
+![image](https://github.com/user-attachments/assets/7214f329-13d7-412c-bce6-e5bf9a99ba9e)
+
+---
